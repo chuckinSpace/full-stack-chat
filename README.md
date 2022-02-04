@@ -41,7 +41,7 @@ cd app/web-client
 npm install
 # run the server, it will start on port 3000
 npm start
-# run cypress testing (from app/web-client)
+# run cypress testing (from app/web-client) (both api-server and web-client should be running for cypress to work)
 npx cypress open
 ```
 

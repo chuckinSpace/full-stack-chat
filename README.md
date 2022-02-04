@@ -1,4 +1,4 @@
-# touch-bistro-test
+# Coinsmart
 
 ## How to run
 

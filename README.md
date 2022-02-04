@@ -1,4 +1,8 @@
-# Coinsmart
+# Coinsmart-challenge
+
+Main features
+
+NestJs - React/Typescript/Hooks - Cypress - Unit testing - e2e testing
 
 ## How to run
 

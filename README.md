@@ -6,7 +6,7 @@ NestJs - React/Typescript/Hooks - Cypress - Unit testing - e2e testing
 
 ## How to run
 
-# Make sure you are able to run local mongodb instance or visit https://github.com/mongodb/homebrew-brew for instructions on how to install it.
+## Make sure you are able to run local mongodb instance or visit https://github.com/mongodb/homebrew-brew for instructions on how to install it.
 
 # Run local mongodb instance in the background
 

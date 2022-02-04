@@ -48,9 +48,3 @@ npm start
 # run cypress testing (from app/web-client) (both api-server and web-client should be running for cypress to work)
 npx cypress open
 ```
-
-// more time
-Shared interfaces, enums between back and front
-better ui and unit testing
-separate database for e2e
-better cypress code, using plugin and more reusable code
